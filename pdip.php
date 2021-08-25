@@ -20,7 +20,7 @@ echo '<!DOCTYPE HTML>
 <TITLE>PDIP Private Shell</TITLE>
 <link href="https://fonts.googleapis.com/css?family=Kelly+Slab" rel="stylesheet" type="text/css">
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-<link rel="icon" type="image/jpg" href="https://nusadaily.com/wp-content/uploads/2020/02/PDI-P-1.png"/>
+<link rel="icon" type="image/jpg" href="https://i.ibb.co/vLfnjHs/PDI-P-1.png"/>
 <title></title>
 <center>
 
@@ -79,7 +79,7 @@ input,select,textarea{
 </style>
 
 <a href="?"><h1 style="font-family: Kelly Slab; font-size: 35px; color: white;">xXx PDI PERJUANGAN SH3LL xXx</h1></a>
-<center><img src="https://nusadaily.com/wp-content/uploads/2020/02/PDI-P-1.png" width="300" height="200"></center>
+<center><img src="https://i.ibb.co/vLfnjHs/PDI-P-1.png" width="300" height="200"></center>
 </HEAD>
 <BODY>
 
